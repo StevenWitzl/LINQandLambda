@@ -1,0 +1,17 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\03-Collections-LINQ-SystemIO-DateTime\Asssessments\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Steven\Desktop\Project\LINQ\bin\Debug\Customers.xml
+C:\Users\Steven\Desktop\Project\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Steven\Desktop\Project\LINQ\bin\Debug\LINQ.exe
+C:\Users\Steven\Desktop\Project\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Steven\Desktop\Project\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\Project\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Project\LINQ\obj\Debug\LINQ.exe
+C:\Users\Steven\Desktop\Project\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\obj\Debug\LINQ.exe
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\bin\Debug\Customers.xml
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\bin\Debug\LINQ.exe
+C:\Users\Steven\Desktop\LinqAndLamda\LINQ\bin\Debug\LINQ.pdb
